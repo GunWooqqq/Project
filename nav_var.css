@@ -1,0 +1,13 @@
+.nav_var {
+    padding: 20px;
+    cursor : pointer;
+    vertical-align: middle;
+    
+}
+
+.nav_var a {
+    text-align: middle;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}

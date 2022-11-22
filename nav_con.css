@@ -1,0 +1,13 @@
+.nav_con{
+    position: relative; 
+    top: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding: 0px;
+    background-color: #565b67;
+    list-style-type: none;
+    text-align: center;
+}
